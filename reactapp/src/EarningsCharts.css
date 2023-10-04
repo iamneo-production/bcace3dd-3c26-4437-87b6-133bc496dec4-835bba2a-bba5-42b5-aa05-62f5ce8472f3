@@ -1,0 +1,34 @@
+/* EarningsCharts.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This will center the content vertically */
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .chart-button {
+    background-color: #ffaa00;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .chart-button:hover {
+    background-color: #ff8000;
+  }
+  
+  .chart {
+    margin-top: 20px;
+  }
+  

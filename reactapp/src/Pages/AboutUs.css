@@ -1,0 +1,62 @@
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .page-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .about-us-description {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .our-story h2,
+  .our-mission h2,
+  .what-sets-us-apart h2,
+  .our-community h2,
+  .join-us h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .our-story p,
+  .our-mission p,
+  .what-sets-us-apart ul,
+  .our-community p,
+  .join-us p,
+  .contact-info {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .what-sets-us-apart ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  .our-story,
+  .our-mission,
+  .what-sets-us-apart,
+  .our-community,
+  .join-us,
+  .contact-info {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  .contact-info strong {
+    color: #007bff;
+  }
+  
